@@ -1,0 +1,18 @@
+{
+  "name": "btadventure-game-project",
+  "version": "2.0.1",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iqra tariq",
+  "license": "ISC",
+  "description": "this is simple adventure game project",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
